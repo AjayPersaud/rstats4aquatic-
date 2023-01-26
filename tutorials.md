@@ -17,7 +17,7 @@ redirect_from:
 	<h4>R basics</h4>
 	<div class="tutpanel">
     	<div class="tutcont">
-        	<a href="{{ site.baseurl }}/tutorials/intro-to-r">
+        	<a href="_tutorials/intro-to-r">
         		<div class="tuthex">
             		<img src="{{ site.baseurl }}/assets/img/hex/work1.jpg" alt="Intro to R hex logo">
         		</div>
