@@ -18,6 +18,8 @@ navbar:
       href: review.html
     - text: "test"
       href: test.html
+    - text: "intro to R"
+      href: intro-to-r.md
       
 output_dir: "."
 output:
