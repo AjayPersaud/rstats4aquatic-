@@ -17,9 +17,9 @@ redirect_from:
 	<h4>R basics</h4>
 	<div class="tutpanel">
     	<div class="tutcont">
-        	<a href="_tutorials/intro-to-r">
+        	<a href="{{ site.github.url }}/tutorials/intro-to-r">
         		<div class="tuthex">
-            		<img src="{{ site.baseurl }}/assets/img/hex/work1.jpg" alt="Intro to R hex logo">
+            		<img src="{{ site.github.url }}/assets/img/hex/work1.jpg" alt="Intro to R hex logo">
         		</div>
         		<div class="tutdesc">
                 		<h2>Introduction to R: Part 1</h2>
@@ -29,10 +29,10 @@ redirect_from:
     	</div>
     	<div class="tutcont">
         	<div class="tuthex">
-            	<img src="{{ site.baseurl }}/assets/img/hex/intro_2.png" alt="Troubleshooting hex logo">
+            	<img src="{{ site.github.url }}/assets/img/hex/intro_2.png" alt="Troubleshooting hex logo">
         	</div>
         	<div class="tutdesc">
-            	<a href="{{ site.baseurl }}/tutorials/troubleshooting">
+            	<a href="{{ site.github.url }}/tutorials/troubleshooting">
                 	<h2>Introduction to R: Part 2</h2>
                 	<p>Troubleshooting and how to find help</p>
             	</a>
