@@ -1,15 +1,7 @@
 ---
-layout: tutorial 
-title: Getting started with R and RStudio
-updated: 2019-03-28
-author: Gergana
-survey_link: https://www.surveymonkey.co.uk/r/6CQF3J7
-banner: "../assets/img/banner/slider-bg-pale.jpg"
-redirect_from:
-  - /2016/11/13/intro-to-r.html
-tags: basic-r
+title: ""
+output: html_document
 ---
-
 # Tutorial aims:
 
 1. Understand what are R and R Studio
