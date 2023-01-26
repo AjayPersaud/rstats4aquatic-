@@ -19,7 +19,7 @@ navbar:
     - text: "test"
       href: test.html
     - text: "intro to R"
-      href: intro-to-r.md
+      href: intro-to-r.html
       
 output_dir: "."
 output:
